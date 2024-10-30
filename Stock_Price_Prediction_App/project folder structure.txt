@@ -1,0 +1,7 @@
+Stock_Price_Prediction_App/
+│
+├── app.py                  # Main Streamlit application
+├── model.py                # Functions for model training and prediction
+├── data_loader.py          # Functions for loading and processing data
+├── visualizations.py        # Functions for plotting stock data
+└── requirements.txt         # List of dependencies
